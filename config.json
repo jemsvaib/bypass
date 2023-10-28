@@ -1,5 +1,5 @@
 {
-    "TOKEN": "6327227001:AAETxQ79C10JOz4rdgBe_eRs46aSvAL-kTY",
+    "TOKEN": "6749917665:AAE78JGvk0lFbscvtz7IYwL0k7PDivwXUkE",
     "ID": "23995611",
     "HASH": "a1b94f10b912c9d732c320f9c73d73dc",
     "Laravel_Session": "",
@@ -10,7 +10,26 @@
     "HCRYPT": "",
     "KATCRYPT": "",
     "UPTOBOX_TOKEN": "",
-    "TERA_COOKIE": "",
+    "TERA_COOKIE": "# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+www.terabox.com	FALSE	/	FALSE	0	csrfToken	BMGuYf6bH8OWVfuui40AK8WA
+.terabox.com	TRUE	/	FALSE	1693850448	browserid	sG4F9uFQmAhvcYSaM6mXYL3Q0RJGGBostRPgyCeUEyA8ZS0LCJxHocZU3U4=
+www.terabox.com	FALSE	/	FALSE	1691259106	lang	en
+.terabox.com	TRUE	/	FALSE	1720202603	PANWEB	1
+.terabox.com	TRUE	/	FALSE	1720202605	TSID	AyUuNFqXdv7jLimcJyiJnxXJSAWpNyP1
+.terabox.com	TRUE	/	FALSE	1723227108	__bid_n	1892c5fbbc3b377a744207
+.terabox.com	TRUE	/	FALSE	1723227108	_ga	GA1.1.1627539496.1688666636
+.terabox.com	TRUE	/	TRUE	1720202759	ndus	YT4VxK7teHui8NxYOfOEWMOlIgo1hybKQ2WbMUIo
+www.terabox.com	FALSE	/	FALSE	1689271670	dom3ic8zudi28v8lr6fgphwffqoz0j6c	20018017-ff7e-4335-af07-89fd8ed39a5f%3A3%3A1
+www.terabox.com	FALSE	/	FALSE	1688668674	ppu_main_1e1bbdc937ccd35cd1897b4e58c7407b	1
+www.terabox.com	FALSE	/	FALSE	1688668675	ppu_main_5e14d17fcba455a3db0f90b77537b434	1
+www.terabox.com	FALSE	/	FALSE	1691259107	ndut_fmt	56CDFD986A126176EC97BF177C13351FB454371E0FFC4E71CC127B31D5E8889A
+.terabox.com	TRUE	/	TRUE	1688674308	ab_sr	1.0.1_OTEyNjdkYjFiNjA1Y2U3ODUzODM3MDJiOGUyMzk3MzFjYWEzNmZlNTc5MjczZjcwYjcxZDRkYjcxNjI1YjgzZDVlYmI5MzgzYmMwODMwYzNiNGU0YzMyNTI1ZmE4OGM4NmI2MWU4YWY4MGMyZmNhODE4ZWQ1ZDYxMWYyMmIxZjFiNjczNGM3MjM4ZWEzZTFiMmYxYjcxZDU5ZmViZmI0NA==
+www.terabox.com	FALSE	/	FALSE	1688668914	ppu_sub_1e1bbdc937ccd35cd1897b4e58c7407b	3
+www.terabox.com	FALSE	/	FALSE	1688668914	ppu_sub_5e14d17fcba455a3db0f90b77537b434	3
+.terabox.com	TRUE	/	FALSE	1723227115	_ga_06ZNKL8C2E	GS1.1.1688666635.1.1.1688667115.3.0.0",
     "CLOUDFLARE": "",
-    "PORT": 5000
+    "PORT": 8080
 }
